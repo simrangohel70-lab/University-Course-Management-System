@@ -59,9 +59,7 @@ The main objective of this project is to design and implement a relational datab
 A complete video demonstration of the **University Course Management System** is available below.
 
 📹 **Watch the Project Demonstration:**
-
-👉 [🎬 Click Here to Watch the Video](YOUR_VIDEO_LINK_HERE)
-
+https://drive.google.com/file/d/16orIuCIlScDju0cvMblG5DG5Sdbf180Q/view?usp=drive_link
 ---
 
 ### The system manages:
