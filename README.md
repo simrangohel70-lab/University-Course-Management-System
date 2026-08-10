@@ -46,12 +46,9 @@ The main objective of this project is to design and implement a relational datab
   - [1️⃣5️⃣ Running Total](#-query-15--running-total)
   - [1️⃣6️⃣ CASE Expression](#-query-16--senior-or-junior-students)
 - [📚 SQL Concepts Demonstrated](#-sql-concepts-demonstrated)
-- [✨ Key Features](#-key-features)
 - [🎓 Learning Outcomes](#-learning-outcomes)
 - [📁 Project Structure](#-project-structure)
-- [⚠️ Important Note](#️-important-note)
 - [👩‍💻 Author](#-author)
-- [📜 License](#-license)
 
 ---
 
